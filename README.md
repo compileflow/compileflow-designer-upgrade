@@ -1,5 +1,10 @@
 # 历史版本下载
 
+## 1.0.10
+* 升级说明：支持2021.2版本安装
+* idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.10.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.10.for2018up.zip)
+* idea是2020版本上的请下载：[compileflow-idea-designer-1.0.10.for2020up.zip](idea-designer/compileflow-idea-designer-1.0.10.for2020up.zip)
+
 ## 1.0.9
 * 升级说明：支持等待节点、优化javacode展示
 * idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.9.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.9.for2018up.zip)
