@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40eff8a7-2cbd-4317-8035-a6a8cd5db9b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/idea-designer/compileflow-idea-designer-1.0.9.for2018up.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-designer/compileflow-idea-designer-1.0.9.for2020up.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea-designer/compileflow-idea-designer-1.0.10.for2020up.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +16,12 @@
     <session id="986399789">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -92,7 +90,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="274" />
+    <option name="x" value="211" />
     <option name="y" value="23" />
     <option name="width" value="1229" />
     <option name="height" value="748" />
@@ -102,6 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,8 +118,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,18 +158,19 @@
       <workItem from="1617938229586" duration="90000" />
       <workItem from="1618068903000" duration="5799000" />
       <workItem from="1623307068887" duration="1436000" />
-      <workItem from="1625817056568" duration="241000" />
+      <workItem from="1625817056568" duration="554000" />
+      <workItem from="1627465187610" duration="321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7566000" />
+    <option name="totallyTimeSpent" value="8200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="274" y="23" width="1229" height="748" extended-state="0" />
+    <frame x="211" y="23" width="1229" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35888794" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36478516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
