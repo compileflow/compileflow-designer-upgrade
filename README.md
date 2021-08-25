@@ -1,6 +1,6 @@
 # 历史版本下载
 
-## 1.0.10
+## 1.0.11
 * 升级说明：支持布局切换
 * idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.11.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.11.for2018up.zip)
 * idea是2020版本上的请下载：[compileflow-idea-designer-1.0.11.for2020up.zip](idea-designer/compileflow-idea-designer-1.0.11.for2020up.zip)
