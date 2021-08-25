@@ -1,6 +1,17 @@
 # 历史版本下载
 
 ## 1.0.10
+* 升级说明：支持布局切换
+* idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.11.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.11.for2018up.zip)
+* idea是2020版本上的请下载：[compileflow-idea-designer-1.0.11.for2020up.zip](idea-designer/compileflow-idea-designer-1.0.11.for2020up.zip)
+* 操作示例：
+点击设置操作项
+![语法高亮](idea-designer/1.0.11/1.png)
+点击弹出设置，可设置样式，和布局（设置布局后，需要重新关闭文件再打开才会生效，布局的选择可以有效的解决，因为节点多很多线重叠显示不友好的场景，可以选择一个适合自己的布局显示）
+![语法高亮](idea-designer/1.0.11/2.png)
+
+
+## 1.0.10
 * 升级说明：支持2021.2版本安装
 * idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.10.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.10.for2018up.zip)
 * idea是2020版本上的请下载：[compileflow-idea-designer-1.0.10.for2020up.zip](idea-designer/compileflow-idea-designer-1.0.10.for2020up.zip)
