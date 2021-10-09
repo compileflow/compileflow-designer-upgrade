@@ -1,5 +1,10 @@
 # 历史版本下载
 
+## 1.0.13
+* 升级说明：优化了一些内部逻辑
+* idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.13.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.13.for2018up.zip)
+* idea是2020版本上的请下载：[compileflow-idea-designer-1.0.13.for2020up.zip](idea-designer/compileflow-idea-designer-1.0.13.for2020up.zip)
+
 ## 1.0.12
 * 升级说明：常规性bug修复
 * idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.12.for2018up.zip](idea-designer/compileflow-idea-designer-1.0.12.for2018up.zip)
