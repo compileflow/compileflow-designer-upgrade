@@ -4,6 +4,6 @@
     <option name="branch" value="main" />
     <option name="gitUrl" value="git@github.com:compileflow/compileflow-designer-upgrade.git" />
     <option name="localBranch" value="main" />
-    <option name="revision" value="9c58afecd3bd9a69e401bd195cf1b0e8d1393fc8" />
+    <option name="revision" value="27bd2b1f0d75c09ce7e24239ef57398c553c2e6f" />
   </component>
 </project>
