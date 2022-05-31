@@ -1,5 +1,9 @@
 # 历史版本下载
 
+## 1.0.15
+* 升级说明：1、支持2022.1的idea安装
+* idea是2022.1版本的请下载：[compileflow-idea-designer-1.0.15.zip](idea-designer/compileflow-idea-designer-1.0.15.zip)
+
 ## 1.0.14
 * 升级说明：1、支持2021.3的idea安装
 * idea是2018以上且2020版本以下的请下载：[compileflow-idea-designer-1.0.14.for.2018.up.zip](idea-designer/compileflow-idea-designer-1.0.14.for.2018.up.zip)
