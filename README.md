@@ -1,5 +1,9 @@
 # 历史版本下载
 
+## 1.0.17 
+* 升级说明：1、支持2024.3的idea安装；2、修复无法新建流程图的BUG；（感谢：landuo的PR分支）
+* 下载地址：[compileflow-idea-designer-1.0.17.zip](idea-designer/compileflow-idea-designer-1.0.17.zip)
+
 ## 1.0.16
 * 升级说明：1、支持2022.3的idea安装（感谢：chenqiyue的PR分支）
 * idea是2022.3版本的请下载：[compileflow-idea-designer-1.0.16.for.2022.3](idea-designer/compileflow-idea-designer-1.0.16.for.2022.3.zip)
